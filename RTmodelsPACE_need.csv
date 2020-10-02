@@ -1,0 +1,31 @@
+﻿,Heritage,OperOciAc,OperOciAer,OperOciCld,OperOciLand,EnhPolAerOc,EnhPolAerLand,EnhPolCld,PolOcean,Explor,ExplorAirborne
+Complete  documentation,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Maintained version control,yes,yes,some,some,some,yes,yes,yes,yes,yes,some
+Benchmarked ,yes,yes,some,some,some,yes,yes,yes,yes,yes,yes
+Intuitive inputs,some,some,some,some,some,some,some,some,some,some,some
+Usable interface,some,some,some,some,some,some,some,some,some,yes,some
+Spectral convolution,no,some,yes,yes,yes,some,some,some,some,yes,some
+Modular components,no,yes,no,no,no,some,some,some,yes,yes,some
+Calculates Jacobians,no,some,no,no,no,yes,yes,yes,yes,yes,yes
+Vector,no,yes,yes,some,yes,yes,yes,yes,yes,yes,no
+Arbitrary scat matrices ok,no,some,some,yes,some,yes,yes,yes,yes,yes,yes
+Nonspherical capability ,no,yes,yes,no,yes,some,some,no,some,yes,yes
+Simulate arbitrary altitudes,no,some,yes,yes,yes,no,no,no,some,yes,yes
+Default std atm included,yes,some,yes,yes,yes,some,some,some,some,yes,yes
+Trace gas absorption,no,yes,yes,yes,yes,yes,yes,yes,yes,some,yes
+Multiple geometries,no,some,some,some,some,yes,yes,yes,some,some,no
+Simulate upward looking,no,no,no,no,no,no,no,no,no,yes,yes
+Pseudospherical,no,some,some,some,some,no,no,no,some,yes,no
+Aerosol over ocean ,yes,yes,yes,no,no,yes,no,no,yes,some,yes
+Aerosol over land,no,no,yes,no,yes,no,yes,no,no,some,yes
+Simultaneous ocean and aerosol,no,yes,no,no,no,yes,no,no,yes,some,yes
+Simultaneous land and aerosol,no,no,no,no,no,no,yes,no,no,some,yes
+Large optical depths ok,no,no,yes,yes,yes,some,some,yes,yes,some,no
+GPU optimization,some,some,some,some,some,yes,yes,yes,yes,no,no
+Non aziumuth symmetry ok,no,some,no,no,no,some,no,no,some,yes,some
+Inelastic and elastic scattering,no,some,no,no,no,some,no,no,yes,yes,some
+Simulate thermal IR,no,no,no,no,no,no,no,no,no,yes,no
+Circular polarization,no,no,no,no,no,no,no,no,some,yes,yes
+Can simulate lidar signals,no,no,no,no,no,no,no,no,no,yes,no
+Scattering medium can change,no,yes,no,no,no,some,no,no,yes,yes,yes
+3D simulation,no,no,no,no,no,no,no,no,no,some,no

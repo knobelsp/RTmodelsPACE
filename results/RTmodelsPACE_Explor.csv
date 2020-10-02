@@ -1,0 +1,32 @@
+index,AFRT,DAG,LINTRAN,GRASP SOS,UMBC,SORD,OSOAA,6SV,VLIDORT,DISORT,MYSTIC,AdSaa
+Complete  documentation,4,-4,2,2,4,2,4,4,2,4,4,2
+Maintained version control,4,-4,4,4,4,-4,4,4,2,4,4,-4
+Benchmarked ,2,4,4,2,4,4,4,4,2,2,4,4
+Intuitive inputs,2,2,2,-1,1,-1,2,1,1,2,2,1
+Usable interface,4,2,2,4,4,-4,4,4,2,4,4,4
+Spectral convolution,-4,-4,2,-4,4,-4,2,2,2,4,-4,-4
+Modular components,4,4,4,2,4,4,-4,-4,2,2,2,2
+Calculates Jacobians,-4,4,4,-4,-4,-4,-4,-4,2,-4,-4,-4
+Vector,-4,4,4,4,4,4,4,4,4,-4,4,4
+Arbitrary scat matrices ok,2,4,4,2,4,2,4,-4,2,4,4,4
+Nonspherical capability ,-4,2,4,4,-4,4,2,-4,2,4,4,4
+Simulate arbitrary altitudes,4,4,4,4,4,-4,4,4,4,4,4,4
+Default std atm included,4,4,4,-4,4,-4,4,4,4,4,4,4
+Trace gas absorption,-1,-1,2,-1,2,1,-1,1,1,2,2,2
+Multiple geometries,2,2,-1,-1,-1,2,2,-1,2,2,1,-1
+Simulate upward looking,4,4,4,4,4,4,4,-4,2,4,4,4
+Pseudospherical,2,-4,-4,-4,-4,-4,-4,-4,4,4,4,-4
+Aerosol over ocean ,2,2,2,2,2,1,2,2,2,2,2,2
+Aerosol over land,2,2,2,2,2,2,1,2,2,2,2,2
+Simultaneous ocean and aerosol,-1,2,2,2,2,-1,2,2,2,2,2,-1
+Simultaneous land and aerosol,-1,2,2,2,2,2,1,2,2,2,2,-1
+Large optical depths ok,-1,2,2,2,2,1,2,2,2,2,2,2
+GPU optimization,0,0,0,0,0,0,0,0,0,0,0,0
+Non aziumuth symmetry ok,-4,-4,4,-4,-4,-4,-4,-4,-4,-4,-4,-4
+Inelastic and elastic scattering,-4,-4,-4,-4,4,-4,-4,-4,-4,-4,-4,-4
+Simulate thermal IR,-4,-4,-4,-4,2,-4,-4,-4,4,4,-4,4
+Circular polarization,-4,2,4,-4,4,-4,-4,-4,-4,-4,-4,-4
+Can simulate lidar signals,-4,2,2,4,-4,-4,-4,-4,-4,2,2,2
+Scattering medium can change,4,-4,4,-4,4,-4,4,-4,-4,-4,-4,4
+3D simulation,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2,-1
+TOTAL SCORE,5,20,60,6,49,-22,22,-8,33,41,37,23

@@ -1,0 +1,31 @@
+﻿,AFRT,DAG,LINTRAN,GRASP SOS,UMBC,SORD,OSOAA,6SV,VLIDORT,DISORT,MYSTIC,AdSaa
+Complete  documentation,yes,no,some,some,yes,some,yes,yes,some,yes,yes,some
+Maintained version control,yes,no,yes,yes,yes,no,yes,yes,some,yes,yes,no
+Benchmarked ,some,yes,yes,some,yes,yes,yes,yes,some,some,yes,yes
+Intuitive inputs,yes,yes,yes,no,some,no,yes,some,some,yes,yes,some
+Usable interface,yes,some,some,yes,yes,no,yes,yes,some,yes,yes,yes
+Spectral convolution,no,no,some,no,yes,no,some,some,some,yes,no,no
+Modular components,yes,yes,yes,some,yes,yes,no,no,some,some,some,some
+Calculates Jacobians,no,yes,yes,no,no,no,no,no,some,no,no,no
+Vector,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+Arbitrary scat matrices ok,some,yes,yes,some,yes,some,yes,no,some,yes,yes,yes
+Nonspherical capability ,no,some,yes,yes,no,yes,some,no,some,yes,yes,yes
+Simulate arbitrary altitudes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes
+Default std atm included,yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes
+Trace gas absorption,no,no,yes,no,yes,some,no,some,some,yes,yes,yes
+Multiple geometries,yes,yes,no,no,no,yes,yes,no,yes,yes,some,no
+Simulate upward looking,yes,yes,yes,yes,yes,yes,yes,no,some,yes,yes,yes
+Pseudospherical,some,no,no,no,no,no,no,no,yes,yes,yes,no
+Aerosol over ocean ,yes,yes,yes,yes,yes,some,yes,yes,yes,yes,yes,yes
+Aerosol over land,yes,yes,yes,yes,yes,yes,some,yes,yes,yes,yes,yes
+Simultaneous ocean and aerosol,no,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+Simultaneous land and aerosol,no,yes,yes,yes,yes,yes,some,yes,yes,yes,yes,no
+Large optical depths ok,no,yes,yes,yes,yes,some,yes,yes,yes,yes,yes,yes
+GPU optimization,some,some,some,yes,no,some,yes,no,some,no,no,no
+Non aziumuth symmetry ok,no,no,yes,no,no,no,no,no,no,no,no,no
+Inelastic and elastic scattering,no,no,no,no,yes,no,no,no,no,no,no,no
+Simulate thermal IR,no,no,no,no,some,no,no,no,yes,yes,no,yes
+Circular polarization,no,some,yes,no,yes,no,no,no,no,no,no,no
+Can simulate lidar signals,no,some,some,yes,no,no,no,no,no,some,some,some
+Scattering medium can change,yes,no,yes,no,yes,no,yes,no,no,no,no,yes
+3D simulation,no,no,no,no,no,no,no,no,no,no,yes,no
